@@ -1,0 +1,31 @@
+# Day 2 — Agent Frameworks
+
+Today I learned that AI agents are usually not built from scratch.
+Developers use agent frameworks that provide ready-made components like memory, tools, and planning systems.
+
+These frameworks help agents move from answering questions to actually completing tasks.
+
+Main frameworks I explored:
+- AutoGen → enables multiple agents to collaborate
+- Semantic Kernel → helps build AI applications using functions and memory
+- Azure AI Agent Service → used to deploy and scale agents
+
+          AutoGen
+     (Agent teamwork)
+
+              ↓
+
+       Semantic Kernel
+        (Build apps)
+
+              ↓
+
+     Azure Agent Service
+        (Deploy & scale)
+
+
+Key takeaway:
+AI is shifting from prompt-response systems to goal-driven systems.
+
+for Reference
+https://github.com/microsoft/ai-agents-for-beginners
